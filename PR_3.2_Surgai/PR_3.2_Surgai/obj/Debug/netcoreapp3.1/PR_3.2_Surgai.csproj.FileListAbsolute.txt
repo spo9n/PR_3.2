@@ -1,0 +1,13 @@
+C:\Users\Alienware\source\repos\ІЗВП\PR_3.2_Surgai\PR_3.2_Surgai\obj\Debug\netcoreapp3.1\PR_3.2_Surgai.csprojAssemblyReference.cache
+C:\Users\Alienware\source\repos\ІЗВП\PR_3.2_Surgai\PR_3.2_Surgai\obj\Debug\netcoreapp3.1\PR_3.2_Surgai.AssemblyInfoInputs.cache
+C:\Users\Alienware\source\repos\ІЗВП\PR_3.2_Surgai\PR_3.2_Surgai\obj\Debug\netcoreapp3.1\PR_3.2_Surgai.AssemblyInfo.cs
+C:\Users\Alienware\source\repos\ІЗВП\PR_3.2_Surgai\PR_3.2_Surgai\obj\Debug\netcoreapp3.1\PR_3.2_Surgai.csproj.CoreCompileInputs.cache
+C:\Users\Alienware\source\repos\ІЗВП\PR_3.2_Surgai\PR_3.2_Surgai\bin\Debug\netcoreapp3.1\PR_3.2_Surgai.exe
+C:\Users\Alienware\source\repos\ІЗВП\PR_3.2_Surgai\PR_3.2_Surgai\bin\Debug\netcoreapp3.1\PR_3.2_Surgai.deps.json
+C:\Users\Alienware\source\repos\ІЗВП\PR_3.2_Surgai\PR_3.2_Surgai\bin\Debug\netcoreapp3.1\PR_3.2_Surgai.runtimeconfig.json
+C:\Users\Alienware\source\repos\ІЗВП\PR_3.2_Surgai\PR_3.2_Surgai\bin\Debug\netcoreapp3.1\PR_3.2_Surgai.runtimeconfig.dev.json
+C:\Users\Alienware\source\repos\ІЗВП\PR_3.2_Surgai\PR_3.2_Surgai\bin\Debug\netcoreapp3.1\PR_3.2_Surgai.dll
+C:\Users\Alienware\source\repos\ІЗВП\PR_3.2_Surgai\PR_3.2_Surgai\bin\Debug\netcoreapp3.1\PR_3.2_Surgai.pdb
+C:\Users\Alienware\source\repos\ІЗВП\PR_3.2_Surgai\PR_3.2_Surgai\obj\Debug\netcoreapp3.1\PR_3.2_Surgai.dll
+C:\Users\Alienware\source\repos\ІЗВП\PR_3.2_Surgai\PR_3.2_Surgai\obj\Debug\netcoreapp3.1\PR_3.2_Surgai.pdb
+C:\Users\Alienware\source\repos\ІЗВП\PR_3.2_Surgai\PR_3.2_Surgai\obj\Debug\netcoreapp3.1\PR_3.2_Surgai.genruntimeconfig.cache
